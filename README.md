@@ -1,3 +1,5 @@
+[![C++ doctest](https://github.com/Zakariarahman07/ITCS-2550-Week-2-Programming-Assignment/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Zakariarahman07/ITCS-2550-Week-2-Programming-Assignment/actions/workflows/c-cpp.yml)
+
 # Math Aptitude Analyzer
 
 ## Description
