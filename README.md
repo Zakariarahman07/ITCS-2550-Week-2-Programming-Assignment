@@ -6,7 +6,7 @@
 
 The **Math Aptitude Analyzer** is a C++ console application that evaluates a user's math skills and provides feedback to help improve them. The program collects user information, performs calculations, runs a math quiz, and generates formatted report files.
 
-This project was created for **ITCS 2530 (C++ Programming 1)** and demonstrates core C++ programming concepts.
+This project was created for **ITCS 2550 (C++ Programming 1)** and demonstrates core C++ programming concepts.
 
 ---
 
