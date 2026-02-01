@@ -115,7 +115,7 @@ int getMaxRandomNumberForDifficulty(char difficultyLevel)
     }
 }
 // For Unit Testing
-#ifdef _DEBUG
+#ifdef RUN_TESTS
     #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
     #include "doctest.h"
 
@@ -166,7 +166,7 @@ int getMaxRandomNumberForDifficulty(char difficultyLevel)
     }
 #endif
 
-#ifndef _DEBUG
+#ifndef RUN_TESTS
 int main(){
     
     // Calling the function which displays a welcome banner to the user
